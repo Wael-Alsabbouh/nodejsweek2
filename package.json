@@ -1,0 +1,12 @@
+{
+  "name": "nodejsweek2",
+  "version": "1.0.0",
+  "description": "looks an excited assignment and i will get a Chocolate cake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [''],
+  "author": "Wael",
+  "license": "ISC"
+}
